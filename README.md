@@ -1,4 +1,5 @@
-# Justification for choosing FP-Growth
+# Association Rule Based Movie Recommender System
+## Why FP-Growth?
 
 - Efficiency: The FP-Tree approach is generally more efficient than Apriori, especially when dealing with large datasets. It reduces the need for repeated database scans, making it faster for frequent pattern mining.
 

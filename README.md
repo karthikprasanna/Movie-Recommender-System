@@ -159,3 +159,8 @@ The code constructs conditional FP-trees based on conditional pattern bases deri
 - It calculates precision as the ratio of the number of recommended movies that were also in the test set to the size of the recommendation set.
 - The cumulative average recall and precision are updated using a moving average formula.
 - The average recall and precision for the current number of rules are appended to the respective lists.
+
+![image](https://github.com/user-attachments/assets/900778cc-982a-428a-83ac-af8be9b89f10)
+![image](https://github.com/user-attachments/assets/ffa4f6b2-748a-412a-9542-6bb621c66193)
+
+
